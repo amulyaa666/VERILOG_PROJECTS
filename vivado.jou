@@ -1,0 +1,11 @@
+#-----------------------------------------------------------
+# Vivado v2015.1 (64-bit)
+# SW Build 1215546 on Mon Apr 27 19:22:08 MDT 2015
+# IP Build 1209967 on Tue Apr 21 11:39:20 MDT 2015
+# Start of session at: Mon Aug 11 17:17:03 2025
+# Process ID: 21244
+# Log file: C:/Users/amuly/OneDrive/Desktop/project.verilog/vivado.log
+# Journal file: C:/Users/amuly/OneDrive/Desktop/project.verilog\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/amuly/OneDrive/Desktop/project.verilog/4bitadder.project.xpr

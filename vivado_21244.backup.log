@@ -1,0 +1,20 @@
+INFO: [Common 17-701] A license check has taken more than 10 seconds to complete. This may indicate that there is a performance issue with one or more license servers listed in XILINXD_LICENSE_FILE or LM_LICENSE_FILE, or that the license servers are just not responding at all. Try setting the FLEXLM_DIAGNOSTICS environment variable to 3 and running Vivado again to get more information.
+#-----------------------------------------------------------
+# Vivado v2015.1 (64-bit)
+# SW Build 1215546 on Mon Apr 27 19:22:08 MDT 2015
+# IP Build 1209967 on Tue Apr 21 11:39:20 MDT 2015
+# Start of session at: Mon Aug 11 17:16:12 2025
+# Process ID: 23328
+# Log file: C:/Users/amuly/OneDrive/Desktop/project.verilog/vivado.log
+# Journal file: C:/Users/amuly/OneDrive/Desktop/project.verilog\vivado.jou
+#-----------------------------------------------------------
+start_guioopen_project C:/Users/amuly/OneDrive/Desktop/project.verilog/project.verilog.xpr
+INFO: [Project 1-313] Project file moved from 'C:/Users/amuly/deskop/project.verilog' since last save.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2015.1/data/ip'.
+open_project: Time (s): cpu = 00:00:09 ; elapsed = 00:00:05 . Memory (MB): peak = 678.930 ; gain = 133.461exit
+INFO: [Common 17-206] Exiting Vivado at Mon Aug 11 17:16:42 2025...
+
